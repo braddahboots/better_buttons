@@ -1,0 +1,22 @@
+{
+  "name": "better_buttons",
+  "version": "0.0.0",
+  "homepage": "https://github.com/braddahboots/better_buttons",
+  "authors": [
+    "BraddahBoots <bryan@thebrocode.io>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}
